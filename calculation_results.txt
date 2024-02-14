@@ -1,0 +1,244 @@
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+
+Latitude of Origin: 13.880459
+Longitude of Origin: 100.360667  
+Latitude of Target: 13.873525
+Longitude of Target: 100.418467
+Initial Velocity (m/s): 700
+Shooting Angle: -6.8408189952024 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Force of Impact: -84171.564362689 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Force of Impact: -120.3311042167 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Force of Impact: -0.0100143163996 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 698.99928469205 m/s
+Force of Impact: -0.0100143163996 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
+Latitude of Origin: 13.873525
+Longitude of Origin: 100.418467
+Latitude of Target: 13.880459
+Longitude of Target: 100.360667  
+Initial Velocity (m/s): 700
+Shooting Angle: 173.1591810048 degrees
+Elevation Angle: -6.8408189952024 degrees
+Travel Time: 8.3163477511686E-5 seconds
+Final Speed: 700.99928673288 m/s
+Force of Impact: 120.2450919467 N
+
